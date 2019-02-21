@@ -1,0 +1,20 @@
+# Load URL API
+
+Load URL API scrapes the given URL page and returns back all the images along with total word count and the list of top 10 words with their occurence in the page.
+
+# Stop word
+
+
+## Tools and Technologies used
+
+- ASP.NET MVC
+- Azure
+- Visual Studio for Mac
+
+## Instruction for running the project.
+
+- Please clone the github repo from this URL
+- Install Visual Studio for Mac and load the project
+- Build and Run. 
+- Connect your Visual Studio to Azure Cloud.
+- Deploy. Enjoy!

@@ -1,0 +1,21 @@
+{
+  "name": "XSentium-take-home-test",
+  "version": "1.0.0",
+  "description": "XSentium-take-home-test",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Supriya Kosalge",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-compass": "^2.1.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.6.1",
+    "gulp-util": "^3.0.8"
+  }
+}
