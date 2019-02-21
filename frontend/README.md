@@ -1,18 +1,18 @@
 # image gallery
 
-An image gallery showcasing beautiful images from the given typed URL in the search bar. Search field allows user to type the website address and load all the images listed on that page via scraping!
+An image gallery showcasing beautiful images from the given typed URL in the search bar. Search field allows user to type the website address and load all the images listed on that page via API!
 
-Further two sections, lists out the total number of words and also count of top 10 words in the descending order.
+Further two components, lists out the total number of words and also count of top 10 words in the descending order in a chart graph.
 
 This app uses an WebAPI built using ASP.NET and hosted on Azure for demo purpose.
 
 ## Tools and Technologies used
 
-- HTML5,
-- CSS3,
+- HTML5
+- CSS3
 - CSS-Grid for responsiveness.
-- Sass CSS Preprocessor,
-- Gulp build tool,
+- Sass CSS Preprocessor
+- Gulp build tool
 - Vanila JavaScript
 
 ## Instruction for running the project.
